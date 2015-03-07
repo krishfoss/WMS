@@ -1,0 +1,5 @@
+H:\FOSS\Android_example\Wireless_Measurement_Systesms\WMSLink_20150108\app\build\intermediates\classes\debug
+H:\FOSS\Android_example\Wireless_Measurement_Systesms\WMSLink_20150108\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-9a572348d6a85931dcbab6b0883a34bbdf990041.jar
+H:\FOSS\Android_example\Wireless_Measurement_Systesms\WMSLink_20150108\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-fcfe83b8b22fdf157a7f243daee71c057d361185.jar
+H:\FOSS\Android_example\Wireless_Measurement_Systesms\WMSLink_20150108\app\build\intermediates\pre-dexed\debug\classes-34ea69f4f0040f4721c939c3fefcf85911753592.jar
+H:\FOSS\Android_example\Wireless_Measurement_Systesms\WMSLink_20150108\app\build\intermediates\pre-dexed\debug\classes-e1cbd7d0f4a87a5036e5298ca3f3ce9a2eeff98a.jar
